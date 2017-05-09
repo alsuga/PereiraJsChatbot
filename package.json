@@ -1,0 +1,14 @@
+{
+  "name": "PereiraJsChatbot",
+  "version": "1.0.0",
+  "description": "A chatbot for a PereiraJs talk",
+  "main": "bot.js",
+  "repository": "https://github.com/alsuga/PereiraJsChatbot",
+  "author": "Alejandro Suarez",
+  "license": "MIT",
+  "dependencies": {
+    "botmaster": "^3.0.8",
+    "botmaster-telegram": "^1.0.0",
+    "request": "^2.81.0"
+  }
+}
